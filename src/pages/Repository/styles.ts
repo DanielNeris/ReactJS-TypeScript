@@ -59,7 +59,7 @@ export const RepositoryInfo = styled.section`
 
     li {
       & + li {
-        margin-left: 80;
+        margin-left: 80px;
       }
       strong {
         display: flex;
